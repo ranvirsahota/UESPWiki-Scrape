@@ -1,0 +1,658 @@
+[
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 13,
+        "bookIndex": 59,
+        "bookID": 1117,
+        "content": "2 Sun's Dawn— \nWhat a glorious day! I am closer than ever to completing my studies. It's taken years of hard work, but today my instructor said I passed my examinations at the top of my class.\n\nMy friends and I will celebrate long into the night!\n\n4 Sun's Dawn—\nThiingil and I will set out today to visit her family before our wedding. They don't approve of me. Scholars aren't valued the way hunters are. I hope they change their mind.\n\nWe're taking a short-cut across the ruins. Should be back within a month. Two at the most."
+    },
+    {
+        "categoryIndex": 1,
+        "collectionIndex": 11,
+        "bookIndex": 11,
+        "bookID": 1530,
+        "content": "Officer's Log: Centurion Pontius\n\nBuilding a fort in a swamp is no trivial task, but my men and I have accomplished it with Arx Corinium. It was a battle the entire duration—with insect-borne disease, with the wildlife of the marshlands, but the Empire wanted a foothold in this region and we provided one.\n\nUnfortunately, as of this writing, we've packed our arms and armor on orders from Colonel Marianus, and prepare to leave our work behind. The Colonel cites the continued loss of a half-dozen soldiers every month in maintaining Arx Corinium as \"detrimental to the war effort.\" I agree, and would note that I predicted this outcome when we arrived over a year and a half ago. I said as much to the Colonel, who ordered that the project proceed. This isn't a statement of complaint, but of fact.\n\nConstruction suffered numerous complications: the bog impeded our progress at every turn, and it became clear the initial foundation we built would sink after the first month. When we moved our location farther to the north, we met a fierce wamasu that cost me ten men to chase off the premises. After repeated encounters, our war wizard, Belisaro, named it Ganakton the Tempest, after the bolts of lightning that the beast emits from every orifice (\"Ganakton\" was the moniker of a hated aunt, rumored to possess Orcish blood).\n\nThe dense humidity was another foe, turning our plate armor to steek barrels full of sweat during the early months of construction. It goes against regulation, but I allowed my soldiers the luxury of cloth armor during the summer. It was that or death from heatstroke. We would have been at a disadvantage had we come under attack, but any enemy marching towards Arx Corinium would be half-dead by the time they reached us. In any event, it never happened.\n\nBattle found us just the same: every beast in this swamp, large or small, is a walking death trap, and some days, we fought sword to stinger with insects the size of a grown man's head. Other days, our mages contended with the likes of Ganakton the Tempest, who continued to terrorize the fort. He razed the eastern wall a dozen times, and I regret that I will never be allowed the luxury of mounting his skull on my mantle. But if it means we finally get to leave, I'll gladly allow Ganakton his life.\n\nAs I look back on this last year and a half, at the resources and manpower it took to construct Arx Corinium, I can't say it's been worth it. Again, this isn't a statement of grievance. I bear my superiors no ill will for my orders. However, I would note that I made several warnings in advance of this project, and have compiled copies of my letters to my immediate superior, Colonel Marianus, detailing the reasons why I believed the construction of Arx Corinium could prove a disastrous venture for the Empire.\n\nI want to clarify that this is not a declaration of failure on anyone's part, either for myself, my men, or Colonel Marianus. I am fully aware that that decision falls to Tribune Hilario, whom I encourage to read the letters I mention above. I've already sent word and made them available for any officer to peruse at the Imperial City military archives."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 12,
+        "bookIndex": 28,
+        "bookID": 1542,
+        "content": "Uncle,\n\nSorry for the delay in sending you this letter. I know I might not get to deliver it for a while, but I wanted to write to you about Bearclaw Mine right away. It's been a long journey, but I know it's going to be worth it.\n\nWe don't go out of the cave often, of course. There's a reason this place is called Bearclaw Mine. The bears are as fearsome as you'd expect, but that's worked out well for us. It means there isn't any competition here. As long as we're quick and quiet, we can make a lot of coin here very quickly.\n\nThank you again for selling the house. That should buy us more time with the debtors, and we'll be able to settle our accounts soon.\n\nI don't feel good about bringing my family here, but you know how those moneylenders are. I actually feel safer with them here than back there.\n\nMarisse is taking this all rather well. She brought a few books, and she's reading them to Alain. Her lessons are still very religious, but if that is what it takes for her to get through this, that's fine with me.\n\nI hope everything worked out getting the profits to the right people. We'll be back as soon as we've got enough to pay of the rest of the debt.\n\nMay the Divines watch over you. May they guide and protect us all.\n\n— Hubert"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 16,
+        "bookIndex": 31,
+        "bookID": 1212,
+        "content": "Aldarch, \n\nYou need just stand beside a source of fire to make use of this powerful object. Merely aim at the object to be cleansed, and the wand will cause flame to dance and flow through the air. \n\nPlease accept it as a gift, a veneration of the Destruction art and a gift from the Divines. Use it with care, for it is a powerful gift.\n\nIn the name of Auri-El himself, may his fiery breath keep us warm through these trying times.\n\n— Kinlord Astanamo the Penitent"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 21,
+        "bookIndex": 70,
+        "bookID": 782,
+        "content": "Bravely bold Sir Cadwell\nRode forth upon trusty Honor.\nHe feared nothing in Coldharbour,\nOh brave Sir Cadwell.\nHe loved the land all blue and gray,\nRighting wrongs and saving days.\nBrave, brave, brave Sir Cadwell."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 13,
+        "bookIndex": 97,
+        "bookID": 815,
+        "content": "The ruins of old Aba-Darre serves as the home of the misunderstood monster, Sthorha the Crazed. \n\nOh, the fiesty daedroth can be a bit testy, and we've certainly gone a round or two over the years, but she can be brilliantly affectionate if given half the chance.\n\nLike now.\n\nShe's affectionately gnawing on my foot.\n\nGood daedra!"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 13,
+        "bookIndex": 98,
+        "bookID": 812,
+        "content": "Honor sometimes plays with Duriatundur. He loves to grab hold of a rib and just shake and shake!\n\nMaybe that's why Duriatundur runs when he sees the old chap …."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 13,
+        "bookIndex": 99,
+        "bookID": 824,
+        "content": "What a fun group! I love visiting with Nolagha, Keggahiha, and Rsolignah at the Daedroth Larder.\n\nBut don't eat the snacks. They may be someone we know."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 21,
+        "bookIndex": 69,
+        "bookID": 796,
+        "content": "I'm a soul shriven, but that's all right,\n\nI fight Daedra all day and rescue damsels at night.\n\nWith trusty Honor and a mighty helm,\n\nI keep Coldharbour safe and protect the realm.\n\nI had another line, but now I forgot,\n\nI'll write more later—or maybe not."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 2,
+        "bookIndex": 1,
+        "bookID": 1810,
+        "content": "Sundas\n\nStrange movements in the sky. I thought I saw the Guardians appear for a moment. The Warrior, the Mage, the Thief. And then they flickered and vanished. I have a sickening feeling deep in my stomach, as if this is an omen of things to come.\n\nConsulted the tomes of the Star-Scryer. Nothing but vague prophecies of the stars falling from the sky, portending doom. Nothing speaking to this specific sign. \n\nWe are afloat on a foreign sea, without a chart or astrolabe to guide us to safer shores. Our own Guardians have disappeared, abandoned us. \n\nWoe to us, children of a bitter age.\nWhen our children fall, who will catch them?\nFor they are all orphans,\nTheir mothers died in childbirth, \nTheir fathers died in war.\nLike the beggar on the street, \nThey beg for food and receive scorpions.\n\nTirdas\n\nWe are truly damned. Armies of sand giants have appeared in the foothills, attacking the precious Mundus Stones. \n\nPersons calling themselves the Celestials have attacked in every place in Craglorn. It's a miracle Dragonstar still stands. We have not heard anything from the city of Elinhir in too long. \n\nDo not hope for a better future.\nTime is devouring itself.\nOh you women in labor,\nOh you who are about to give birth.\nDash your children on the rocks,\nand poison your young ones.\nWho will stand when the stars fall?"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 10,
+        "bookIndex": 6,
+        "bookID": 1512,
+        "content": "The dogs of the Pact do not understand a contract well made. They see no profit in peace. The only thing they understand is force. Overwhelming force. \n\nIf we're going to take Ebonheart, we need breaches, footholds. I've received word from a scout. She found an abandoned mine near Kragenmoor that might do nicely. \n\nOccupy it. Hold it. Use it. And do not fail me.\n\n— General Alexandra Conele"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 18,
+        "bookIndex": 5,
+        "bookID": 3350,
+        "content": "By Twilight Cantor Adara'hai\n\nSomewhere, deep in the Dark Behind the World, there are grim forges and bent benches where Lost Cats arm and armor themselves. On those dire times when they appear among us, their outfitting is much alike, implying they are made to certain standards. This one shall sing the song of these standards below. Because all knowledge is useful, no? If only to know what to stay away from. \n\nCHEST PIECES\n\nThe cuirasses of dro-m'Athra warriors have a central boss of double waning crescents, surrounded by the jagged patterns of what I call \"blue claw marks,\" the distinctive slashes of blue lightning so common in Lost Cat imagery."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 18,
+        "bookIndex": 7,
+        "bookID": 3353,
+        "content": "By Twilight Cantor Adara'hai\n\nSomewhere, deep in the Dark Behind the World, there are grim forges and bent benches where Lost Cats arm and armor themselves. On those dire times when they appear among us, their outfitting is much alike, implying they are made to certain standards. This one shall sing the song of these standards below. Because all knowledge is useful, no? If only to know what to stay away from. \n\nGLOVES\n\nGauntlets protect hands from blows, of course, but also it is cold, very cold in Dark Behind the World, so wear gloves. Fingertips are covered—where are Khajiiti claws? On forearm, blue claw marks, but on hands, no claws. Very disturbing."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 18,
+        "bookIndex": 9,
+        "bookID": 3457,
+        "content": "By Twilight Cantor Adara'hai\n\nSomewhere, deep in the Dark Behind the World, there are grim forges and bent benches where Lost Cats arm and armor themselves. On those dire times when they appear among us, their outfitting is much alike, implying they are made to certain standards. This one shall sing the song of these standards below. Because all knowledge is useful, no? If only to know what to stay away from. \n\nLEG GREAVES\n\nDro-m'Athra greaves almost normal, mundane. Must guard lower limbs just like Top-of-World greaves, yes? Darkening moons on shins, pointed down, emptying out all life. Sing me a song of shinbalds, turning 'round and walking away!"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 18,
+        "bookIndex": 11,
+        "bookID": 3340,
+        "content": "By Twilight Cantor Adara'hai\n\nSomewhere, deep in the Dark Behind the World, there are grim forges and bent benches where Lost Cats arm and armor themselves. On those dire times when they appear among us, their outfitting is much alike, implying they are made to certain standards. This one shall sing the song of these standards below. Because all knowledge is useful, no? If only to know what to stay away from. \n\nSHIELDS\n\nDouble-waning-crescent shield, Jode to right, Jone to left, with gaps in moon-sickles for stab-stabbing from behind it. See the blue lightning? Very dangerous: beware."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 18,
+        "bookIndex": 13,
+        "bookID": 3343,
+        "content": "By Twilight Cantor Adara'hai\n\nSomewhere, deep in the Dark Behind the World, there are grim forges and bent benches where Lost Cats arm and armor themselves. On those dire times when they appear among us, their outfitting is much alike, implying they are made to certain standards. This one shall sing the song of these standards below. Because all knowledge is useful, no? If only to know what to stay away from. \n\nSTAVES\n\nWhat a staff it is! Two down-turned waning crescents emptying the head, while above is crescent Ghost Moon, rampant, ready to funnel forth spells of Destruction. No need to guess why Lost Cat Sorcerer is most feared dro-m'Athra of all. No, not a bit."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 3,
+        "bookIndex": 14,
+        "bookID": 3354
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 18,
+        "bookIndex": 14,
+        "bookID": 3346,
+        "content": "By Twilight Cantor Adara'hai\n\nSomewhere, deep in the Dark Behind the World, there are grim forges and bent benches where Lost Cats arm and armor themselves. On those dire times when they appear among us, their outfitting is much alike, implying they are made to certain standards. This one shall sing the song of these standards below. Because all knowledge is useful, no? If only to know what to stay away from. \n\nSWORDS\n\nHeavy at end, Lost Cat sword would be awkward wielding for any but muscle-cat dro-m'Athra! Weight of sword drives sharp-sharp edge through body and bone. Crosshilt is waning-double-crescent, but by now you guess this twice over. Avoid! Evade! Will you be wise, and heed Adara'hai? Who can say? Var var var."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 10,
+        "bookID": 3204,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 11,
+        "bookID": 3195,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 12,
+        "bookID": 3216,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 13,
+        "bookID": 3235,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 14,
+        "bookID": 3110,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 1,
+        "bookID": 3214,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 2,
+        "bookID": 3205,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 4,
+        "bookID": 3194,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 5,
+        "bookID": 3213,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 6,
+        "bookID": 3234,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 7,
+        "bookID": 3212,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 8,
+        "bookID": 3215,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 30,
+        "bookIndex": 9,
+        "bookID": 3104,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 28,
+        "bookIndex": 2,
+        "bookID": 3217
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 47,
+        "bookID": 2536,
+        "content": "In the dark days after the fall of the first Orsinium, the vicious titan Zanadunoz the Ravager terrorized southern Wrothgar. Desperate Orcs went so far as to form a cult devoted to the service and worship of Zanadunoz.\n\nAs Zanadunoz's followers gathered to perform heretical acts in the titan's name, another group of warriors banded together to slay the titan. Thruz gro-Fharun led the Band of Fifty, who dedicated themselves to making southern Wrothgar secure.\n\nAfter weeks of endless battle, Thruz's band defeated the cult, but at a great cost. With only twelve warriors remaining, Thruz attacked Zanadunoz in the shadow of Honor's Rest. He defined the notion of the Orc hero by ripping the titan's black and fiery heart from its chest, even as its flames consumed him. The heart transformed into a phylactery, supposedly capable of recalling the titan from Oblivion to once again threaten the Orsimer."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 14,
+        "bookIndex": 68,
+        "bookID": 1254,
+        "content": "Claudette,\n\nBruma is ripe for the taking. When the time comes, it will be ours. The peasants and Dremora will never see us coming. Find a hidden base and wait for my signal.\n\nDo not attempt to contact Zandur. I'll have both of you skinned and served for dinner if you ruin my plans.\n\n— Hegris"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 13,
+        "bookIndex": 24,
+        "bookID": 1376,
+        "content": "29 Sun's Height\nI know not what force drags us up from our eternal rest, but the call cannot be denied. I did not study the Daedric Princes much in life, but bound to them now in death, I regret that.\n\nMaybe if I knew more, I could save us from this terrible duty. Whatever this force or being is, it grows closer. Crawling. Pulling. The very world seems to rebel against it, but to no avail.\n\n12 Evening Star\nNirn ends soon, this I know. And it ends in a tide of corpses."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 5,
+        "bookIndex": 44,
+        "bookID": 1458,
+        "content": "Pay attention to what you are doing, idiots. The liquids we are cutting the skooma with can be flammable if mixed.\n\nDON'T BREAK THE BOTTLES. We could lose the whole lab if a fire starts.\n\n— Rakhad"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 3,
+        "bookIndex": 4,
+        "bookID": 438,
+        "content": "Your instructions are simple. Follow Dimitri into Farangel's Mine and locate the abandoned fort therein. There should be ample amounts of supplies to take, which we can turn around and sell in Wayrest. We should turn a tidy profit. Do this for the Supernal Dreamers, and further our cause!"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 3,
+        "bookIndex": 6,
+        "bookID": 463,
+        "content": "We've heard rumors that Ayleid ruins sit unplundered in the hills near Wind Keep. Follow Gargak the Knight. He will lead you to them. We must claim these ruins and discover the ancient secrets within—for the Dreamers!"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 12,
+        "bookID": 1669,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Imperial City. I used to love it here. When I was young my native town of Skingrad seemed hopelessly provincial to me, and I looked forward all year long to going along with mother on her annual trip to the Heartland. For me, the capital was the epitome of learning, of culture, of everything I held dear. \n\nI walk the avenues now, from district to district. And I look. Skingrad seemed provincial, yes, but it was Colovian: direct, forthright, with clean lines and a certain spare, ascetic look to it. And its people are much the same way. \n\nThe Imperial City, except for the walls and the Tower, which are Ayleid, is … Nibenese. Refined. Decorative. Subtle. Nuanced. \n\nDecadent. Corrupt. \n\nLike its people. And the people it attracts. \n\nI was too late. \n\nMorian is gone. With the help of Divayth, cursed Divayth, he fulfilled his dream and traveled to Oblivion. According to Seif-ij, he went to Moonshadow as planned, but he didn't stay there. He went on, to Ashpit, to Coldharbour, to Quagmire. To Apocrypha. \n\nAnd there, in Apocrypha, he stayed. \n\nSeif-ij told me, emotion quivering even in his flat reptilian voice, of how once he entered Oblivion Morian seemed to become more reckless, more enraptured, with each portal to a new plane. How he ignored his assistant's pleas to return. How Apocrypha … entranced him. \n\nSeif-ij Hidja was beside himself, holding his head with its drooping spines, clearly at his wit's-end. It was up to me. I ran to Divayth's room, though Seif-ij said he was gone, hoping he'd left some way to get in touch with him, hoping he would respond to my appeals for help. \n\nI found only a book, open on his desk, a book titled \"Fragmentae Abyssum Hermaeus Morus.\" It was open to what seemed to be a summoning ritual for the Daedric Prince Hermaeus Mora, specifying that \"whatever price is named shall be met.\"\n\nA ritual to Hermaeus Mora. The Lord of Apocrypha. \n\nI ran to Morian's laboratory. It was looted, ransacked. The only thing of interest was a crumpled note. It read, \"When thou enterest into Oblivion, Oblivion entereth into thee.\" \n\nMorian is gone. Gone to Apocrypha. Where he stays.\n\nAnd so I walk, from district to district. Wondering. What price had the Lord of Apocrypha named to Divayth Fyr? What price for the entrancement, the captivity of Morian Zenas? \n\nI walk the streets, the avenues and alleys. Wondering.\n\nWondering when I, too, will be ready to pay the price."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 13,
+        "bookID": 1824,
+        "content": "By Seif-ij Hidja\n\nThe master—I mean the Professor, Morian Zenas—is gone. So is Lady Alfidia, though I always addressed her as Doctor Lupus. So, for that matter, is the Telvanni, but he, at least, will not be missed—nasty mer, always making caustic comments about \"the scaleskin help\" whenever the Professor wasn't around. \n\nNo, I am glad the Telvanni is gone. But the others … well.\n\nI will stay on here as long as I may, keeping the Professor's town house in order, organizing his notes and his reagents, dusting his beloved books. I still hope for his return. For now, the University has him listed as \"On Sabbatical,\" and sends his stipend to me so I can maintain his residence and arcane workshop. \n\nIt was while in the study, straightening the Professor's desk, that I came across a stack of notes in Lady Alfidia's elegant handwriting, unfinished studies of clothing, arms, and armor in several cultural styles. The river flows slowly these days, so I have decided to organize these style notes in a fashion that (I hope) approximates how the lady doctor would have done so herself. \n\nThough notes about the styles of the leading Elven societies of current-day Tamriel have already been compiled, there is more to say, as the mer, who revere their ancestors and ancestry, have a special regard for the history of Aldmeri culture. The Merethic Era, when Elves first conquered and colonized Tamriel, they regard as a golden age to be emulated. As a result the clothing and armor of that period never really goes out of style, and many Elves still affect the styles and manners of the ancient Aldmeri. It is not at all unusual, even on continental Tamriel, to encounter a High Elf or Dark Elf dressed like an ancient Ayleid or Chimer. The Elves call this practice \"draping Ehlnofic,\" but the rest of us just call it \"Ancient Elven\" and leave it at that. \n\n(I will add here to the absent lady's notes that I myself, though having lived in the Imperial capital for many long years, have never seen a Wood Elf sporting this Ancient Elven style. But the Bosmer, like we Argonians, seem to prefer to live in the Aurbic Now, showing relatively little regard for the ways of former ages.)\n\nAncient Elven is different from Elven styles favored by modern artisans of Summerset and Morrowind in that it is somewhat more organic, and yet at the same time more abstract. Flowing floral motifs are common, usually tapering to a sharp point or end, as in the sharp-peaked arches so familiar to the inhabitants of Cyrodiil from our ubiquitous Ayleid ruins. Circles, semi-circles, and arcs abound, often containing the organic tapering tendrils, much as the Aedra (whom the Elves claim as ancestors) were constrained by the creation of the Mundus.\n\n(What? What's that? …It is as if I heard my lady whisper in my ear, \"How pretentious, Seif-ij!\")"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 14,
+        "bookID": 1823,
+        "content": "By Seif-ij Hidja\n\nContinuing my compilation of Doctor Alfidia Lupus' notes for studies of clothing, arms, and armor in diverse cultural styles….\n\nDespite the civilizing influence of our noble Second Empire, Tamriel still has its backwaters and hinterlands inhabited by barbarous tribes. Probably the most familiar to us Cyrodilics are the savage clans of the Reachmen, who dwell in the wild mountains between Skyrim and High Rock, and whose raiders have been seen on the outskirts of Bruma within living memory. But there are also the Ashlanders of Morrowind, the fierce Kothringi of Black Marsh, the Ket Keptu of central Hammerfell, and many others. \n\nIt is a strange but undeniable fact that these tribes, farflung across the continent though they are, have strikingly similar tastes in apparel. Why this should be is fodder for another ethnographic study more speculative than this one, which is merely descriptive. (Therefore, on to the description.)\n\nThis clannish or tribal style, though commonly known as \"Barbaric,\" is really no less sophisticated than that of other cultures. The so-called barbaric tribes simply disdain all ideas of tasteful restraint, preferring the lurid and bizarre. Bright colors are favored, and materials may be lacquered to almost any hue. Typical accouterments include skulls, antlers, feathers, strings of teeth, accents of beaten copper, and weapons ostentatious in size and number. \n\n(I feel the need to interject here that much of this description could also apply to the styles of my native Black Marsh, a region that could scarcely be described as \"barbaric\"! Pfui. I shall return to this cultural style another day.)"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 15,
+        "bookID": 1245,
+        "content": "By Seif-ij Hidja\n\nContinuing my compilation of Doctor Alfidia Lupus' notes for studies of clothing, arms, and armor in diverse cultural styles….\n\nYou might look at the gear sported by a fully-equipped Goblin warchief and think, \"What a mismatched conglomeration of primitive paraphernalia.\" But you would be wrong. Each item that warchief is wearing was carefully selected for its proven utility, and represents a decision backed by millennia of tradition. This is a style of arms and armor we ethnographers call the \"Primal,\" and it is as distinctive and recognizable as any other culture set. \n\nGoblins and other folk who have adopted the Primal style are typically superb scavengers and looters. They seem to have a special sense for where to find the sort of cast-off yet serviceable, even exceptional  equipment that will fit the Primal esthetic. And they are as proud of their turn-out as any Imperial centurion.\n\nRecent scholarship by Doctor Intricatus of Gwylim University confirms this, and adds some new information that shows that \"primal\" is, indeed, the optimal label for this style. His study of the fifty-seven Primal ensembles worn by the massacred Knife-Biter Goblin tribe showed that many of the items found on the corpses were hundreds, if not thousands of years old. Some of the greaves and cuirasses appeared to date from the early First Era, and represented ancient forging techniques that have since been lost to history. Did the Goblins loot these from ancient Cyrodilic ruins, as they've been known to do? Or did they actually pass them down, generation by generation, since time immemorial? \n\nYes, Professor Zenas, that IS how you spell \"immemorial.\" Wait … what? Professor? Is that your voice?"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 16,
+        "bookID": 2155,
+        "content": "By Seif-ij Hidja\n\nContinuing my compilation of Doctor Alfidia Lupus' notes for studies of clothing, arms, and armor in diverse cultural styles….\n\nIt is entirely appropriate that this last entry in Doctor Lupus' \"Racial Motifs\" series should be about Daedric arms and armor, as it is my belief that the absent Lady Alfidia has somehow journeyed to the Daedric planes of Oblivion in pursuit of my lost Professor Morian Zenas. And as I can now hear the Professor's voice whispering in my ear almost constantly, it is time to conclude these notes and move on to telling the story of his travels through the doors of Oblivion. \n\nThe Daedra, as the Professor has so often remarked, are creatures of chaos, entities of great energy and force but entirely lacking in originality. They can imitate, they can exaggerate, and they can corrupt, but they cannot create anything new. That is a capability inherent only in the Aedra, and in we mortals of Nirn, to whom they gave it as a gift. (In Black Marsh we see such things differently, of course, but these are the beliefs of the Professor and Lady Alfidia.)\n\nThus the armor and weapons of such Daedra as the Dremora, Xivilai, and Golden Saints—what Doctor   Lupus calls the \"humanoid\" Daedra—consist of familiar Tamriel-style cuisses, breastplates, and pauldrons, swords, spears, and bows. They may to our eyes be ornamented with outlandish spikes and melodramatic flourishes, but look inside a suit of Daedric armor and you'll find the familiar padding and straps that enable it to be worn by anyone of conventional shape. Pick up a Daedric sword, and despite its bizarre shape you will find the grip comfortable, the heft well-balanced. Indeed, it is said that the famous Artifacts of the Daedric Princes, such as the Mace of Molag Bal, were mostly made by mortal artisans who were enticed or forced to create them. \n\nYes, Professor, I believe that is enough—for now, at least. I have done my duty to the good doctor. I am sitting in your study, and I am listening. Tell me again of Moonshadow."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 10,
+        "bookID": 2160,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nMACES\n\nDwarven maces have heavy and blunt geometrical heads, without flanges, spikes, or pointed finials. The two-handed maces are outweighed only by Orcish skull-crushers, and can bend and batter plate armor as if it was foil."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 11,
+        "bookID": 2185,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nSHIELDS\n\nDwarven shields come in many shapes, but all echo the geometric forms seen on Dwemer armor, albeit writ large. They are formed from relatively thin plates of Dwarven metal, and are much lighter and wieldier than they appear."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 12,
+        "bookID": 2232,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nSHOULDERS\n\nDwarven shoulder pauldrons were usually made of thick and inflexible metal, mounted on cops of heavy \"leather.\" The pauldrons of heavier armor sometimes sported metal keels echoing the crests seen atop their helmets."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 13,
+        "bookID": 2177,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nSTAVES\n\nEven the most elaborate Dwarven staff has a utilitarian look about it, as if it was going to be used with a paddle to draw a loaf of bread from an oven. The haft is made of some close-grained substance that looks like wood but is not, circled with rings of Dwarven metal. The finials are circular or fan-shaped, and usually modest in size."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 14,
+        "bookID": 2217,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nSWORDS\n\nDwarven swords look like mere extensions of their daggers, featuring the same broad, triangular blades with both point and edge. Their cross-guards are slender to almost nonexistent, which argues that Dwemer swordplay did not rely much on thrusting."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 1,
+        "bookID": 2149,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nAXES\n\nDwemeri axe designs reflect the wheels, gears, and cogs that are central to so many devices of the Deep Elves. The haft is surmounted by a round disk resembling the hub of a wheel, from which spokes radiate to the blade or blades, which are like portions of a wheel's outer ring. The blades maintain an edge remarkably well, considering their great age."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 2,
+        "bookID": 2161,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nBELTS\n\nDwarven belts are typically made of overlapping metal links of a repeated geometric shape, such as squares or circles. Their length is easily adjusted by the addition or subtraction of a few links. The tensile strength of such a belt is without peer, many times that of an equivalent length of steel chain."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 3,
+        "bookID": 2216,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nBOOTS\n\nDwarven boots are sturdy, but not as heavy as they look. Though they have accents of Dwarven metal, they are mainly constructed of a flexible material that resembles leather, but either it is some sort of manufactured imitation, or the Dwemer had beasts with incredibly smooth and homogenous hide. Knee-high Dwarven boots often incorporate built-in greaves over the shins."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 4,
+        "bookID": 2186,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nBOWS\n\nDwarven recurved bows are powerful and can drive an arrow through an oaken board. Though they appear to made of metal, they are not; the strong yet flexible material they are made from is otherwise unknown, and cannot be duplicated by modern bowyers."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 5,
+        "bookID": 2229,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nCHEST PIECES\n\nAll Dwarven chest armor consists of metal plates of various sizes affixed to a leather cuirass—thin, flexible leather with a few small plates in the case of light armor, the leather becoming thicker and the plates larger and more numerous as the armor gets heavier. The plates are typically geometric in shape and ornamentation."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 6,
+        "bookID": 2184,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nDAGGERS\n\nA Dwarven dagger typically has a broad and heavy triangular blade, as suitable for chopping as for stabbing. In fact, they resemble tools as much as they do weapons."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 7,
+        "bookID": 2187,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nGLOVES\n\nDwarven gloves were always made of fine and flexible leather or pseudo-leather, reflecting their wearers' need for fine manipulation of their devices. Only the heaviest gauntlets sported metal ribs, typically tessellated splints protecting the back of the hands."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 8,
+        "bookID": 2301,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nHELMETS\n\nDwarven helmets of all kinds famously cover the entire face with a face-shaped visor, curiously bisected down the center by a sort of metal keel. This keel reappears atop the helmet as a crest, which may be modest or bizarrely exaggerated. A line of Dwemer troops, all wearing helmets with identical, impassive visages, must have struck terror into the Deep Elves' enemies."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 25,
+        "bookIndex": 9,
+        "bookID": 2212,
+        "content": "By Raynor Vanos\n\nKireth says I should write down what I've learned about Dwemer artisans and the styles and motifs of their lost civilization. \n\nLEG GREAVES\n\nThe leg protection of the Dwemer typically consisted of geometric plates or cylinders of metal, mounted on the same thick yet flexible material used for their boots. The armor was particularly thick over the knee."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 27,
+        "bookIndex": 11,
+        "bookID": 2372,
+        "content": "By Vandalion Brightsteel, Armorsmith Peerless of Vulkhel Guard\n\nDuring the recent strife in Firsthold, certain reference works were lost from the great library, so His Excellency Kinlord Rilis has asked the leading experts of Auridon to replace them with new accounts. For the definitive description of the Glass crafting style, naturally our wise sovereign turned to me. \n\nSHIELDS\n\nFor a shield that is nearly all metal, glass shields are remarkably light, precisely because they're mostly glass plates held in a slender matrix of steel. Two broad glass wings, usually avian-themed, flare out from central steel ribs to broad \"feathered\" edges."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 27,
+        "bookIndex": 13,
+        "bookID": 2352,
+        "content": "By Vandalion Brightsteel, Armorsmith Peerless of Vulkhel Guard\n\nDuring the recent strife in Firsthold, certain reference works were lost from the great library, so His Excellency Kinlord Rilis has asked the leading experts of Auridon to replace them with new accounts. For the definitive description of the Glass crafting style, naturally our wise sovereign turned to me. \n\nSTAVES\n\nA staff in the Glass style is many a wizard's proudest possession. The long wooden shaft, sheathed in steel languets to protect it while parrying, is simple enough; it's the elaborate winged finial that is the glory of a glass staff. The steel head, often set with large turquoises, unfolds on either side into a pair of exquisite glass wings, evoking birds, bats, or Dragons. The entire finial seems to glow with inner fire."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 27,
+        "bookIndex": 4,
+        "bookID": 2377,
+        "content": "By Vandalion Brightsteel, Armorsmith Peerless of Vulkhel Guard\n\nDuring the recent strife in Firsthold, certain reference works were lost from the great library, so His Excellency Kinlord Rilis has asked the leading experts of Auridon to replace them with new accounts. For the definitive description of the Glass crafting style, naturally our wise sovereign turned to me. \n\nBOWS\n\nGlass-style bows are compound and recurved, with a wooden grip and limbs of horn. The front of the curve and back of the recurve are faced with glass for maximum power. Non-glass parts of the bow are often painted with a metallic lacquer, so that a flash of reflected sunlight ripples along the line as a troop of archers raises their bows for a volley."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 27,
+        "bookIndex": 5,
+        "bookID": 2339,
+        "content": "By Vandalion Brightsteel, Armorsmith Peerless of Vulkhel Guard\n\nDuring the recent strife in Firsthold, certain reference works were lost from the great library, so His Excellency Kinlord Rilis has asked the leading experts of Auridon to replace them with new accounts. For the definitive description of the Glass crafting style, naturally our wise sovereign turned to me. \n\nCHEST PIECES\n\nThe downward-pointing chevrons on Glass cuirasses evoke the deep-muscled chests of great flying creatures, and indeed the chest plates are often adorned with images of eagles, dragons, or cliff racers. They are constructed of leather, steel, and glass, with as much additional glass trim as the buyer can afford."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 27,
+        "bookIndex": 7,
+        "bookID": 2365,
+        "content": "By Vandalion Brightsteel, Armorsmith Peerless of Vulkhel Guard\n\nDuring the recent strife in Firsthold, certain reference works were lost from the great library, so His Excellency Kinlord Rilis has asked the leading experts of Auridon to replace them with new accounts. For the definitive description of the Glass crafting style, naturally our wise sovereign turned to me. \n\nGLOVES\n\nGlass-style gauntlets typically feature thin, flexible leather gloves, with glass strips protecting the back of the hand and the forearms. The elbows are covered by triangular glass-faced cowters that echo the shape of the pauldrons above."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 28,
+        "bookIndex": 10,
+        "bookID": 2369,
+        "content": "By Denogorath, Dread Archivist and Promulgator of Mandatory Doctrine\n\nThe Master's new Xivkyn Honor Guard must be outfitted in a manner that will bring glory to mighty Molag Bal and fear to his enemies. The following stylistic requirements must be adhered to without deviation! See to it, or face the consequences in the scathe-rings. \n\nMACES\n\nA Xivkyn's mace shall have a heavy octagonal head, with sharp, spiked flanges protruding from its faces. It shall look as if it had but to drop on an enemy's skull to crush it in."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 28,
+        "bookIndex": 12,
+        "bookID": 2340,
+        "content": "By Denogorath, Dread Archivist and Promulgator of Mandatory Doctrine\n\nThe Master's new Xivkyn Honor Guard must be outfitted in a manner that will bring glory to mighty Molag Bal and fear to his enemies. The following stylistic requirements must be adhered to without deviation! See to it, or face the consequences in the scathe-rings. \n\nSHOULDER ARMOR\n\nA Xivkyn's pauldrons or spaulders shall flare both upward and downward, to protect both the shoulders and the sides of the neck. They shall be accented with a dull red the color of mortals' dried blood."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 28,
+        "bookIndex": 13,
+        "bookID": 2370,
+        "content": "By Denogorath, Dread Archivist and Promulgator of Mandatory Doctrine\n\nThe Master's new Xivkyn Honor Guard must be outfitted in a manner that will bring glory to mighty Molag Bal and fear to his enemies. The following stylistic requirements must be adhered to without deviation! See to it, or face the consequences in the scathe-rings. \n\nSTAVES\n\nSpellcasting Xivkyn shall be provided with staves with finials like flared spike-wings; they shall look as if the mage could use them to disembowel an opponent if necessary. Within the three spike-wings, each finial shall have a central pointed metallic stone that will emit the staff's spell-energy. At a pinch, a Xivkyn staff can be placed in a floor-stand and used as a convenient torchiere."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 28,
+        "bookIndex": 2,
+        "bookID": 2368,
+        "content": "By Denogorath, Dread Archivist and Promulgator of Mandatory Doctrine\n\nThe Master's new Xivkyn Honor Guard must be outfitted in a manner that will bring glory to mighty Molag Bal and fear to his enemies. The following stylistic requirements must be adhered to without deviation! See to it, or face the consequences in the scathe-rings. \n\nBELTS\n\nA Xivkyn's belt shall have a geometric abdominal buckle large enough to cause discomfort when the Daedra bends forward. The medium and heavy girdles shall have sharp, interlocking diamond-shaped plates, so as to cause pain when the belts are used to bind captives."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 28,
+        "bookIndex": 3,
+        "bookID": 2338,
+        "content": "By Denogorath, Dread Archivist and Promulgator of Mandatory Doctrine\n\nThe Master's new Xivkyn Honor Guard must be outfitted in a manner that will bring glory to mighty Molag Bal and fear to his enemies. The following stylistic requirements must be adhered to without deviation! See to it, or face the consequences in the scathe-rings. \n\nBOOTS\n\nA Xivkyn's boots shall have heavy metal toes to optimize the brutal kicking of downed opponents. These plates shall be articulated to allow the feet to flex without compromising protection or weaponization."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 28,
+        "bookIndex": 5,
+        "bookID": 2375,
+        "content": "By Denogorath, Dread Archivist and Promulgator of Mandatory Doctrine\n\nThe Master's new Xivkyn Honor Guard must be outfitted in a manner that will bring glory to mighty Molag Bal and fear to his enemies. The following stylistic requirements must be adhered to without deviation! See to it, or face the consequences in the scathe-rings. \n\nCHEST PIECES\n\nA Xivkyn's chest armor shall bear a pattern of overlapping metal scales, said pattern to evoke the general awe-inspiring shape of our Dread Lord's mighty skull without actually depicting it. The cuirass will give an impression of great weight, to convey the power and physical strength of the wearer."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 28,
+        "bookIndex": 7,
+        "bookID": 2373,
+        "content": "By Denogorath, Dread Archivist and Promulgator of Mandatory Doctrine\n\nThe Master's new Xivkyn Honor Guard must be outfitted in a manner that will bring glory to mighty Molag Bal and fear to his enemies. The following stylistic requirements must be adhered to without deviation! See to it, or face the consequences in the scathe-rings. \n\nGLOVES\n\nThe Xivkyn's gauntlets shall have articulated metal sheaths to protect the fingers, augmented by steel talons that extend the reach of the warrior's claws. One size shall fit all."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 28,
+        "bookIndex": 8,
+        "bookID": 2374,
+        "content": "By Denogorath, Dread Archivist and Promulgator of Mandatory Doctrine\n\nThe Master's new Xivkyn Honor Guard must be outfitted in a manner that will bring glory to mighty Molag Bal and fear to his enemies. The following stylistic requirements must be adhered to without deviation! See to it, or face the consequences in the scathe-rings. \n\nHELMETS\n\nA Xivkyn's helm shall protect the warrior's cheeks as well as her crown. It shall be studded and horned, and yet its visage shall evoke a terrible death-mask in the eyes of Molag Bal's enemies."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 3,
+        "bookID": 830,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThis series will provide a survey-level overview of the symbolic and stylistic hallmarks that distinguish the major cultures of Tamriel in their arts and crafts. Our focus will be on the portable durable goods of the various races, that is, their clothing, ornamentation, arms, and armor, as these reliably reflect personal cultural expressions. When completed, this series will support the curricula of the introductory ethnographic courses at the Arcane University. \n\nWe begin with the High Elves, the reclusive Altmer of the Summerset Isles, because the argument can be made (and often is, by Elves) that civilization in Tamriel was brought here by the Aldmeri of Old Ehlnofey. Insofar as the Elves of Summerset consciously strive to maintain the heritage of their Merethic ancestors, their traditions are certainly closer to those of pre-First Era society than any other. \n\nThis is not to say that, in the thousands of years since the arrival of the first Aldmeri, the culture of the High Elves has not deviated and ramified in many ways, because it has. It is simply that, by viewing modern Altmeri culture with the eye of a historian, we can perceive the outlines of its origins. \n\nIn this initial effort I have benefited from the advice of the celebrated Morian Zenas, Professor of Transliminal Studies here at Arcane University. Professor Zenas is the only member of our faculty who has visited the Summerset Isles, specifically Artaeum, with a brief stop in transit at Dusk. \n\nI was a bit intimidated when I first visited Professor Zenas in his house in the Cathedral District, but I found him a charming old gentleman, undeserving of his reputation for peevishness. Morian (for so he asked me to address him) bade me stay for dinner, which was served by his laconic Argonian apprentice, Seif-ij Hidja. \n\nAs Morian explained, the High Elves strive for a simple elegance in their designs, in which flowing lines reflect graceful forms from the natural world. More-or-less abstract birds, flowers, and sea shells are common motifs, rendered in rich but muted colors. Armor will be tooled or embossed to represent scales or feathers, and even heavy cuirasses and helmets may sport stylized wings or beaks. \n\nMetallic items are often accented with a translucent greenish material called \"glass.\" This is a sort of jade-like obsidian that Elven smiths have learned to work by secretive processes known only to the Altmer. Though rigid enough to take a superb edge when cool, glass can be made malleable enough to assume almost any form, and the High Elves use it extensively on ornamental arms and armor. \n\nAfter dinner, over snifters of Cyrodilic Brandy, Morian asked me all sorts of questions about my motifs project, and about myself. It was really very flattering. I must find an excuse to talk with him again."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 4,
+        "bookID": 53,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nFrom the High Elves it is natural to next consider the Dark Elves, as they originated in the Summerset Isles before their migration to Morrowind. Their culture can thus be considered an offshoot of the Altmeri, though in many ways that of the Dunmer is a reaction to that of Summerset rather than an extension. \n\nAlso, Morian introduced me to a Dark Elven associate of his, Divayth Fyr, who is helping him on his \"transliminal sojourn\" project. I don't know what that's all about, but Divayth offered to help me with references on Dunmeri culture, and I accepted. \n\nElegance is as much a goal for the Dark Elves as it is for the High Elves, but beyond that their styles could not be more different. Morrowind is a far harsher environment than fair Summerset, and that rigor is reflected in Dunmeri designs. The Dark Elves also draw on nature for their inspiration, but in place of avian and floral motifs, Dunmeri artifice draws on the curved and spiky forms of the carapaces of the giant insects that inhabit Morrowind. Elegant these are, but also fearsome, a constant reminder that the Dunmer daily fight for their very existence. \n\nEbony is the favored metal for Dark Elven heavy armor, but even in their lighter armors and shields, steel and steel alloys are often lacquered in dark tones to appear ebony-like. Clothing, armor included, is often accented by flaring extensions at shoulder, crest, or hip, with overlapping geometric designs that may have been borrowed from Dwarven culture, though Divayth bristled at the idea of any Dwemeri influence on the Dunmer. \n\nIn truth, I find the dark sorcerer from Vvardenfell exerts a strangely compelling attraction. He doesn't seem old, but he referred to Morian, who is at least sixty, as a \"young man.\" I wonder how old he really is. In fact, I wonder many things about him. He has those crimson eyes that seem to look right through you. It's a little bit thrilling. \n\nHe's offered to take me with him to visit a Bosmeri tavern down on the waterfront. I may do it."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 5,
+        "bookID": 112,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nNext we complete our study of the Elves with the Bosmer of Valenwood. Though less influential in the world at large than their cousins the High Elves and the Dark Elves, the Wood Elves outnumber all other Mer in Tamriel, being relatively fecund (for Elves) and more, shall we say, amorously-inclined. \n\nIt's a commonplace to point out that the Wood Elves favor natural motifs, but as I learned, there's more to it than that. Their reverence for Y'ffre and the story of the Earth Bones is reflected in the stylized fashion in which these natural motifs are represented. The Bosmer believe that all nature was in chaos before Y'ffre gave all plants, animals, and people their names, which defined the permanent form each species would take. Thus each species is depicted by a particular, idealized motif which represents the ur-form it was given by Y'ffre.\n\nThis is reflected in the designs that appear everywhere on Wood Elven arts, crafts, and clothing. These designs are drawn from a large repertoire, as there is a design for each species of plant and animal in the Bosmer's world, but the use and depiction of these designs is culturally prescribes, and there is very little room for variation. Unorthodox usage of these stylized pictograms is considered improper, just plain \"wrong.\"\n\nThis may seem paradoxical in a race whose members otherwise seem so carefree and easygoing, but it is so, as I had an opportunity to see for myself. There are quite a few Wood Elves in the Imperial City, enough that there is a small Bosmeri neighborhood down on the waterfront, served by a tavern called the Tipsy Torchbug. Divayth Fyr, the fascinating Dark Elf wizard assisting Morian Zenas in his experiments, had offered to take me there, and I agreed. \n\nWhen I arrived at Morian's house on the date of our jaunt to the docks the old professor himself answered the door, and I was surprised when he asked me to step into my study for a moment. Also surprising was the way Morian was turned out: in a new silk robe sporting star-sign symbols, hair trimmed and combed, and smelling faintly of lavender. Quite a transformation from the disreputable, singed and stained robes I'd seen him in previously. \n\nIt turned out he wanted to caution me about going down to the waterfront with Divayth Fyr. I'm afraid I laughed, at which he reddened, and I then told him I was a grown woman who could take care of herself. He was somewhat abashed and muttered some excuses, from which I gathered that he was more concerned about my spending time with Divayth than going to the docks. I didn't want his feelings hurt, so I complimented his new robe, at which he beamed, and then I went to the parlor to meet Divayth. \n\nI shouldn't ramble on, but we had a wonderful evening. The Tipsy Torchbug was a lively place, and Divayth introduced me to Lady Biniele, the proprietor, who insisted that we share our table. The entertainment was Biniele's Bosmeri Burlesque, which was hilarious, and though I couldn't drink any of the Wood Elves' revolting beverages, I did consent to share a pipeful of bugsmoke with Divayth, which made me feel strangely exhilarated. \n\nIt also led to my seeing a prime example of Bosmeri disdain for \"improper design\" when a Leyawiin sailor, who'd seen me sharing Divayth's pipe, offered to sell me a carved-bone pipe of \"genuine Valenwood make.\" Lady Biniele told me it was a counterfeit and not to waste my money. The sailor protested, but the diminutive Wood Elf woman told him any fool could see the tail was wrong on the Imga carved on the bowl, and he should shove off.  Which he did. \n\nDivayth and I shoved off shortly thereafter, and on our way back up to the city gates he pointed to the stars in the brilliant night sky and told me the ancient Chimeri names for the constellations. I must confess, I remember nothing but the warm tones of his resonant voice—and the warm touch of his hand on my arm."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 6,
+        "bookID": 76,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nWe come now to the Nords, the first human culture on Tamriel to successfully resist, and even displace, Elven hegemony on the continent. \n\nNot unlike the Bosmer, the Nords rely heavily on stylized, often interlocking natural motifs in their architecture, crafts, and clothing. However, where the Wood Elves' designs are mainly floral, the Nords emphasize animals, in particular the eight \"totem\" animals of the old Atmoran religion: wolf, hawk, whale, snake, moth, fox, and so forth. They also allow for much more variation of design, to the point where some of the animal motifs are so abstract they are difficult to recognize. Indeed, areas of trim are often filled with interlocking geometric designs that evoke nothing natural at all. \n\nNord design varies in other ways from that of the Elves as well, in general relying on simple, heavy yet dynamic forms where Elven work would be slender, elegant, and understated. Nothing the Nords make is understated, ever. \n\nThis was clear even from outside the Imperial City's Skyrim Embassy, where Morian, Divayth and I had gone to a reception for King Logrolf. The lintel above the embassy doors was crowned with a great iron hawk's-head, its mouth open as if screaming defiance, while the doors were flanked by bas-reliefs of hawks so stylized they looked as much like axes as they did birds. The door itself was dark oak, banded with iron and studded with iron rivets, as if they expected to have to repel an attack. \n\nThe inside of the embassy was less martial in appearance, at least once one got past the armed and armored guards inside the door. I wondered if they really needed to wear full helms sporting ram's-horns in order to check the invitations of party guests, but the look in the Nords' eyes didn't exactly invite questions. \n\nThe party, as I said, was a reception for King Logrolf, visiting the Imperial City to pay his respects to the Potentate. Morian was there representing the Arcane University; he'd asked me to accompany him and I'd accepted, eager to see our fierce northern cousins in their own environment. When Divayth learned where we were going he'd attached himself to our party, in spite of Morian's baleful glare, but once we were inside the embassy and he was surrounded by loud, boisterous Nords, the Dark Elf wizard seemed to be regretting his decision to join us. \n\nNot so Morian! After he'd downed a flagon of mead, I was suddenly seeing a new Professor Zenas. Attired in his new robe, he positively bloomed, holding forth on the history of magic to an admiring crowd of diplomats, whom he enthralled with tales of the feats of wizardry of the Nord Arch-Mage Shalidor. He seemed twenty years younger, and I suddenly saw him as he must have been in his prime, when he first came to the Imperial City to help found the Arcane University. \n\nMorian even introduced me to King Logrolf, though how he came to know the monarch of Skyrim I have no idea. When I looked around for Divayth, he was nowhere to be seen. Morian and I stayed late at the embassy, quaffing mead and laughing at the Nords' hearty jokes. When we finally left and he walked me home, I thought I could see a new gleam in Morian's eye. \n\nHe may have seen the same gleam in mine."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 7,
+        "bookID": 174,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThe Arch-Magister at the University, Lady Opel Dantaine, is a Breton, so I consulted with her on Breton motifs. She was friendly, and very helpful. \n\nThe Bretons were the last major group of humans on Tamriel to free themselves from their Elven overlords, and in many ways their long vassalage to the Direnni defines their culture. They are fiercely autonomous, each kingdom in High Rock jealous of its individual sovereignty, but Breton society retains a feudal structure that hearkens back to the rank-obsessed Direnni Hegemony. The Bretons are nearly as fractious as their cousins the Nords, but their long tutelage under the Elves makes them open to the magical arts, rather than suspicious of them. \n\nHow is this reflected in their arts and crafts? Let's look at Breton armor, for example. The gleaming heavy armor of a Breton knight is as tough and practical as that of a Nord housecarl, but its pleasing form exhibits a subtle sophistication that is reminiscent of Elven elegance. One sees the same influence in Breton weaponry, which is beautiful yet undeniably deadly. \n\nIt made me think of the differences between Divayth's Elven urbanity and Morian's breadth of knowledge and all-too-human inconsistencies, even peevishness. Apparently the transliminal experiments have not been going well. When I stopped by the townhouse last night, neither Morian nor Divayth were in—Seif-ij, Morian's apprentice, told me they'd quarreled over the appropriate price to pay a transporting entity to ensure safe return from a jaunt to Oblivion, the remarks became personal, and then my name was apparently brought up. There was shouting, and they both huffed their way out of the laboratory and marched off down Divines Street in opposite directions. \n\nThis is terrible. Fighting? Over me? I must confess I was so disturbed I blurted out the whole thing to Lady Opel, who was incredibly kind and solicitous. She asked me if I had feelings for either of the two wizards, and I admitted I did, but they were conflicting and confusing. Opel opened a bottle or two of Bangkorai spiced wine, and we got quite confidential with each other as the evening waned. I'm not sure how I got home, and today my head hurts, but it was worth it, as my heart is no longer so heavy."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 8,
+        "bookID": 267,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nWhen I arrived at Morian's townhouse this morning all was sunshine and rainbows—Divayth and the professor were chatting over mugs of chal like best friends, comparing Ralliballah's Eleven Ritual Forms to the Book of Most Arcane Covenants. I reminded Divayth that he'd promised to escort me to the Yokudan Chapel in the Market District, at which Morian's brow clouded over slightly, but then he smiled and said that was fine, as he wanted to test some new hyperagonal media in his laboratory.\n\n(And maybe it was the light, but to me both men looked … younger, somehow. I must keep in mind that they're both highly capable wizards, which I suppose might include knowledge of illusion magic. Or perhaps I flatter myself.)\n\nI met a number of knowledgeable Redguards at the chapel, all exhibiting that dignity and polite reserve I associate with the better-educated members of that people. The Most-Revered Zirumir, a Priest of Tu'whacca (I hope I spelled that right), was particularly helpful. \n\nAs Zirumir pointed out, both the Redguards' ancient home of Yokuda and their current province of Hammerfell are (or were, in the case of Yokuda) deserts. To stay cool, and for protection from the elements, Redguard clothing tends to be light, long and flowing, and these flowing curves are carried into their artisanal designs. Their robes and armor are often accented by flared curves at joints and on headgear. Even their swords tend to be curved.  \n\nIn contrast their architecture appears rather heavy, though on close inspection this is mainly for the purpose of insulation from the desert's extremes of temperature. Zirumir showed me the chapel's clever system of louvered ventilation ducts in the clerestory, designed to catch the slightest breeze and funnel it down into the nave. \n\nAfter Zirumir was called away to tend to one of his congregation, Divayth and I strolled into the apse to view the eight shrines to the Yokudan Divines. Divayth was explaining that whereas the Forebears of Hammerfell often worship the Cyrodilic Divines brought to them by the Reman Empire, these were the traditional gods worshiped by the more conservative Crown Redguards. Suddenly, behind the beehive shrine to Morwha, he turned to me with those blazing eyes, took my hands between his, and told me he thought me the most brilliant and desirable woman in the Imperial City. My breath caught in my throat, and my heart was hammering. But when he moved as if to embrace me I was suddenly frightened—I backed away, shaking my head, then fled out into the nave. I fear I quite startled a young family of Redguards placing candles on Morwha's altar. \n\nNow what? I'm afraid I must have insulted Divayth terribly. How can I make it up to him? And dare I mention it to Morian? Julianos' little teapot, what a dilemma!"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 9,
+        "bookID": 827,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nWhen I went to the professor's townhouse this morning, my first priority was to apologize to Divayth, but Seif-ij told me he was out—he'd gone somewhere from the portal chamber, using an incantation and leaving nothing behind but a burnt smell. Onward, I told myself: work will take your mind off it. So I went looking for Morian. \n\nI found the old dear at breakfast, just finishing his sweet roll and chal. When I entered the kitchen, he nearly knocked over his mug in his haste to stand up and bow! I told him I wanted to make some notes on the Khajiit and asked him if he knew any of the Cat-Folk, as I did not. He said he knew exactly the person I needed and would be delighted to help me, since \"that irascible Telvanni\" had taken the day off. \n\nI had often passed the seasonal camp of the Baandari Pedlars outside the Market Gate but had never gone in—residual caution from my father's warnings keeping me out, I suppose, as well as the pungent scent. Besides, I've always been a dog person. But Morian plunged right in without hesitation and led me to a pavilion adorned with colorful prayer-flags. I followed Morian into the tent, where he introduced me to Madame Shizahi-jo, whom he said was a Khajiiti sorceress devoted to Azurah and Magrus. Though sitting in lotus position, she bowed politely—the Cat-Folk are lissome—gestured to a pair of seat cushions, and asked how \"this one\" could be of service. \n\nWe had a long and lovely chat. There are superficial similarities between the motifs and designs of the Khajiit and the Redguards, perhaps because they both inhabit hot, arid environments, but where the Redguards favor long, flowing curves, the Cat-Folk are devoted to circular and crescentiform moon-shapes. The shapes of Masser and Secunda in all their phases appear everywhere on Khajiiti clothing and ornaments. The falcate sliver of the crescent moon also brings to mind the Khajiiti claws that spring from pads in their hands and feet, a subtle but ever-present threat to softer folk. \n\nShizahi-jo made us some tea—sticky sweet, like all Khajiiti food and drink—then asked to see the leaves in the bottom of my cup. She stirred them with her pinky-claw, and said now she saw the object of my concern: I'd let my fear cloud my longing and darken my heart. I blurted something about how Divayth had tried to kiss me, and Morian dropped his cup, splattering poor Shizahi. \n\nI thought he was going to explode in rage, but instead this sad look came over him, and then he began pouring out his heart about his feelings for me. It was so sweet of him. I was really quite moved. The Khajiiti mage made a discreet exit, and we stayed on her cushions, talking, for what seemed like hours."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 10,
+        "bookID": 280,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nI saw Divayth last night, briefly, at the Torchbug. I told him I truly cared for him, but that Morian had won my heart. He clouded over like a storm in the Jeralls, but then took a deep breath and managed a dignified exit. Oh, I do hope he'll be all right. \n\nThough I confess, I'm more worried about Morian. His experiments with Divayth are reaching their climax, when Morian will open a gate and personally make a visit to Oblivion. He says he's going to try for Azura's realm of Moonshadow, as he says that ought to be relatively safe. Safe! I'm as anxious as a scrib on a griddle. I dearly want to see Morian before he goes, but he says he must concentrate on mastering the ritual and can't be interrupted. \n\nHe did send a note by Seif-ij saying I should take his place representing the University at the Potentate's state dinner for the new envoy from Orsinium. He must really be busy to skip that event, as I know he was keen to go. Well, all the better for my Racial Motifs project, I suppose—work, work, work will take my mind off my worries!\n\nThe new province of Orsinium doesn't have an embassy yet, so for the dinner the Potentate's snake-staff set up a row of pavilions on the grounds of the White-Gold Tower. To honor Envoy Thuggikh they were all decorated with authentic Orcish paraphernalia imported from Wrothgar, so I got out my journal and took notes during the interminable speeches. \n\nStrange to think that a folk as brutish as the Orcs seem to be could design and create objects of such sophistication! Of course they're known across Tamriel as fine armorers, but I'd always assumed that was due to their great strength rather than skill. A glance at their arms and armor was enough to show me how wrong my assumption had been. Though never ornate or over-embellished, their metalwork, though even simpler and more utilitarian than the Nords', displays a deep understanding of the laws of proportion, symmetry, and harmonic congruity. An Orcish sword may be a weapon of violence, but to contemplate the dynamic sweep of its blade, visually balanced by its heavy but shapely hilt, obviously molded to flow into the hand of its wielder—why, it's almost restful and reassuring. \n\nAfterwards at the reception I was happy to see somebody I recognized in Lady Opel the Arch-Magister. She greeted me warmly and, over some West Weald wine and Eidar cheese, asked me how things were going with me and my pair of wizards. I told her I thought I'd made a terrible muddle of things, but she assured me everything would work out in the end. She said she's known Morian for ever so long, and he's really quite sensible beneath his fussy old-man ways. She was glad he'd found someone as clever as I to keep him from completely vanishing into his laboratory. \n\nBut as far as I'm concerned, that's exactly what he's done. I think I'll go talk to Seif-ij again—maybe he can help me get through to Morian before he leaves."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 1,
+        "bookIndex": 11,
+        "bookID": 97,
+        "content": "Being notes by Doctor Alfidia Lupus for a series of pamphlets on the major cultural styles of Tamriel \n\n(Dr. Lupus was Imperial Ethnographer for Potentate Savirien-Chorak from 2E 418 to 431)\n\nThis morning my maid Dariella came to me all a-twitter with the news that there was a lizard-woman at the door, asking for me and insisting it was urgent. There aren't many Argonians in the City, and it occurred to me this might be a relative of Seif-ij, sent with some dreadful news about Morian, so I donned my University robe and hurried down. \n\nThere was indeed a young lizard-woman waiting in the street, clad in a fetching spidersilk jumper adorned with intricate spiral designs. She said her name was Lifts-Her-Tail (which I thought must be a joke, but who can tell, given these reptilians' impassive features), and she'd been sent to bring me to her master, Desh-Wulm the Perspicuous. She said she didn't know what it was about, but it was a matter of some urgency, and she was to lead me to her master immediately. I nodded, nervously, and followed. \n\nThe Argonian lass led me out the Temple gate and down to the Docks, far out on the end of which we found a curious old house I'd never before noticed, with a dark sign by the door that read \"The Xanmeer\"—a word unfamiliar to me. We went inside to find a large house entirely occupied by Argonians, a dozen or so who seemingly lived there using all the rooms in common. Everywhere I looked I saw Argonian hangings, sculptures, and fetishes, all made from natural materials such as shells, bone, and feathers, glowing with bright spiral and geometric designs. If these objects were representative of what the Argonians used in their home regions, then snakeskin, tortoise shell, jagged teeth, turquoise and jade, all of which we would consider exotic materials, must be commonplace in Black Marsh,. \n\nLifts-Her-Tail led me up a ramp that had apparently replaced the house's staircase. On the upper level she introduced me to a humid room that, to me at least, smelled of decay and mold. Coughing, I entered, discovering a room almost entirely full of potted jungle plants—some of them seemingly long-dead and rotting. I stepped on something that squished beneath my sandal and stepped involuntarily back, but the lizard-lass gently took my hand, drew me past a wall of ferns and into the center of the room. \n\nThere, incongruously, I discovered a large porcelain Nibenese bathtub, like the one in my own vanity chamber, though this one was filled almost to the rim with a noisome, greenish mud. And lying in this mud, nose barely above the surface, was the oldest Argonian I'd ever seen. \n\nIn fact, the withered and wizened lizard-man looked so much like a mummy I was startled when it opened its mouth and spoke. In a voice like creaking leather, the reptilian slowly said, \"I am Desh-Wulm. You are Al-Phid, Brightest Star of the City. You are welcome in my uxith—my nest.\"\n\nHe seemed to be looking someplace over my shoulder, and I saw that the old lizard's eyes were clouded over with an opalescent film—he was blind. This infirmity was somehow reassuring, enabling me to regain my self-possession and fall gratefully into the routines of etiquette. I bowed—though he couldn't see it—and said, \"I am honored to be received into your home, venerable Desh-Wulm. How can one such as I be of service to an Elder of Wisdom?\"\n\n\"You can beware!\" he croaked, scaled hands emerging from the mud and levering him up on the rim of the bathtub. \"Your dryskin mages—the weft unravels about them,\" he said, more calmly, making an unfamiliar spiral gesture above the tub. \"It is wrong. The Aurbic skeins should not be disjoined with intent of malice.\" \n\nI had been around wizards long enough to guess at what he meant. \"Morian?\" I gasped. \"And Divayth? They're in danger? What can I do?\"\n\nDesh-Wulm clacked his jaws twice, and then said, \"You are capable. You must stop them. You will prevail. If not,\" three sharp spines rose up from his brow, \"there will be ill dreams and serration for all who swim the river. Kaoc!\" The old Argonian suddenly began thrashing about in the tub, spilling muck over the sides. \"Theilul!\" \n\nLifts-Her-Tail deftly picked up a jug that seemed to be made from a single insect's carapace, uncorked it, and poured some brown liquor down the old lizard-man's throat. \"Go!\" she hissed, pointing toward the door. \"Do as he says! Now!\"\n\nI turned, ran out of the room, down the ramp, out the door, and back to the Imperial City."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 10,
+        "bookIndex": 9,
+        "bookID": 1714,
+        "content": "The Dominion skin-stealer attacks continue throughout Shadowfen. The most alarming factor is the way they seem to know so much about the people they impersonate.\n\nUntil we find a way to detect the skin-stealers, we can't mount a united defense against other Dominion incursions in Shadowfen."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 3,
+        "bookIndex": 4,
+        "bookID": 1986,
+        "content": "I don't know how I ended up in this dreadful place. I heard that working for the Bitterhand was very profitable, but so far the only thing I've gotten is a daily bowl of slop. In exchange, I've found myself robbing and killing innocent people. I think I made one of those mistakes that mother talked about … the kind that lead you down a dark path to an early death."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 16,
+        "bookIndex": 8,
+        "bookID": 1621,
+        "content": "Skin-stealers ingest scraps of skin from corpses, typically removed from the chest above the heart. This, along with some catalyzing component, allows them to wear the victim's skin as their own for a prolonged period.\n\nIt seems the ingested skin provides limited memories from the victim, which allows for such thorough infiltration. A few skin-stealers have slipped up and given themselves away, but we have no idea how many are in our ranks."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 17,
+        "bookIndex": 69,
+        "bookID": 1240,
+        "content": "Taziako looked about her, confused. Her grandfather had been there just the moment before, and now … now she stood in the bedroom of her childhood. The rich tapestries clung to the walls, warming the wooden slats, and the sweet smell of her mother's cooking filled the air.\n\nTazzie ran to the door, opening her mouth to call out in greeting, and then stopped when she realized she stood once again in the Temple of the Dance. The old moonspeaker nodded at her gravely, and intoned, \"What Jone and Jode have shown you is for you alone. Consider it, and remember it always.\""
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 19,
+        "bookIndex": 49,
+        "bookID": 1670,
+        "content": "How long have I been trapped here?\n\nI can feel my mind slipping more each day.\n\nI'm so angry all the time … I can't …."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 2,
+        "bookIndex": 97,
+        "bookID": 2024,
+        "content": "By Shei-Beekus the Would-Be Bard\n\nHe never owned a castle,\nYet he always wore a crown,\nAnd he loved the skeevers and the cut-purses all the same,\nHe never lorded over but he always lorded true,\nWith a dozen trusty knights by his side,\nThey entered the Arena and won against all odds,\nAnd the legend of Dorzogg the Gutter-King spread far and wide."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 5,
+        "bookIndex": 59,
+        "bookID": 1797,
+        "content": "Upon excavating the ruins of Rulanyil's Fall, this room was found to be relatively untouched by the ravages of time, and remains largely as it was found."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 18,
+        "bookIndex": 41,
+        "bookID": 661,
+        "content": "Act Four, Scene Six\n\nA noble High Elf looks imperiously over her nose at the assembled Mages. \n\nRAZUM-DAR: These Mages would depart our borders with critical information, My Queen. They say they seek … isolation.\n\nQUEEN AYRENN: Truly? Perhaps you do not understand the meaning of loyalty, little magelings!\n\nRAZUM-DAR: Where have I heard that before?"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 16,
+        "bookIndex": 20,
+        "bookID": 1211,
+        "content": "Aldarch, \n\nWater is yours to command with this eldritch chalice. Standing in a pool of water and concentrating can cause the most amazing manipulations of liquid.\n\nPlease accept it with my appreciation. In the name of Mara, may the blood of life keep pumping within your breast.\n\n— Kinlord Astanamo the Penitent"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 17,
+        "bookIndex": 58,
+        "bookID": 417,
+        "content": "Clavides skips to the back of the book, and reads the last sentences. \n\nCLAVIDES (reading): In black ink \"The Khajiiti male showed surprisingly little fortitude to a simple lightning spell, but I've had interesting physiological results with a medium-level acid spell cast slowly over several days.\" In red ink on the margins, \"Yes, I see. Was the acid spell cast uniformly over the entire body of the subject?\" In black ink, \"The Nord female was subjected to sixteen hours of a frost spell which eventually crystalized her into a state of suspended animation, from which she eventually expired. Not so the Nord male, nor the Ashlander male who lapsed into their comas much earlier, but then recovered. The Ashlander then tried to escape, but I restrained him. The Nord then had an interesting chemical overreaction to a simple fire spell and expired. See the accompanying illustration.\" In red ink, \"Yes, I see. The pattern of boils and lesions suggest some sort of internal incineration perhaps caused by the combination of a short burst of flame following a longer session with frost. It's such a shame I can't come to see the experiment personally, but I compliment you on your excellent notation.\" In black ink, \"Thank you for the suggestion about slowly poisoning my maid Anara. The dosages you've suggested have had fascinating results, eroding her memory very subtly. I intend to increase it exponentially and see how long it is before she notices. Speaking of which, it is a pity that I haven't any Argonian subjects, but the slave-traders promise me some healthy specimens in the autumn. I should like to test their metabolism in comparison to Elves and humans. It's my theory that a medium-level lightning spell cast in a continuous wave on an Argonian wouldn't be lethal for several hours at least, similiar to my results with the Cyrodilic female and, of course, the giant.\" In red ink, \"It'd be a shame to wait until autumn to see.\"\n \nULLIS (reading the letter): In red ink, \"Here is your Argonian. Please let me know the results.\" It's signed \"Kema Warvim.\"\n \nCLAVIDES: By Kynareth, this isn't necromancy. It's Destruction. Kema Warvim and Kena Telvanni Hordalf Xyr haven't been experimenting with death, but with the limits of magical torture.\n \nULLIS: The letter isn't addressed to Kena Telvanni Hordalf Xyr. It's addressed to Sedura Iachilla Xyr. His wife, do you think?\n \nCLAVIDES: Iachilla. That was the Telvanni of the Xyr family who I heard about in connection with the giant-slaying. We'd best get the maid out of here. She'll need to go to a healer.\n\nClavides wakes up Anara. She appears disoriented. \n\nANARA: What's happening? Who are you?\n \nCLAVIDES: Don't worry, everything is going to be fine. We're going to take you to a healer.\n \nULLIS: Do you need a coat, Iachilla?\n \nANARA: Thank you, no, I'm not cold—\n\nAnara/Iachilla stops, realizing that she's been caught. Clavides and Ullis unsheathe their blades. \n\nCLAVIDES: You have black ink on your fingers, your ladyship.\n \nULLIS: And when you saw me at the door, you thought I was the Argonian your friend Warvim sent over. That's why you said, \"Not now. Go away.\"\n \nANARA / IACHILLA: You're much more observant than Anara. She never did understand what was happening, even when I tripled the poison spell and she expired in what I observed as considerable agony.\n \nULLIS: What were you going to use on me first, lightning or fire?\n \nANARA / IACHILLA: Lightning. I find fire to be too unpredictable.\n\nAs she speaks, the flames in the torchs extinguish. The stage is utterly dark. There is the sound of a struggle, swords clanging. Suddenly a bolt of lightning flashes out, and there is silence. From the darkness, Anana/Iachilla speaks. \n\nANARA / IACHILLA: Fascinating.\n\nThere are several more flashes of lightning as the curtain closes. \n\nTHE END"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 6,
+        "bookIndex": 37,
+        "bookID": 456,
+        "content": "Where'ere I look, my darling Clarice,\nI think of you. A flock of geese, \nA lofty cloud, up in the skies,\nReminds me of your brownish eyes.\nWhen in the woods I see a fawn,\nI ponder on your hair of tawn.\nAcross the Iliac I sail\nIn every wave I never fail\nTo see you below, also above—\nOh barmaid Clarice, please be my love!\n\nSinged, \n\nGeorges Plouffe, First-Mate (get it?)"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 6,
+        "bookIndex": 100,
+        "bookID": 1938,
+        "content": "Let it be known that the most committed warriors of the Reach gathered here on the 3rd day of Frostfall to put aside their differences and join together against their shared enemy, the Ebonheart Pact.\n\nThese clans were represented:\nRageclaw, Boneshaper, Stonetalon"
+    },
+    {
+        "categoryIndex": 1,
+        "collectionIndex": 9,
+        "bookIndex": 8,
+        "bookID": 319,
+        "content": "[fragment from the Trials of St. Alessia]\n\nAkatosh made a covenant with Alessia in those days so long ago. He gathered the tangled skeins of Oblivion, and knit them fast with the bloody sinews of his Heart, and gave them to Alessia, saying, \"This shall be my token to you, that so long as your blood and oath hold true, yet so shall my blood and oath be true to you. This token shall be the Amulet of Kings, and the Covenant shall be made between us, for I am the King of Spirits, and you are the Queen of Mortals. As you shall stand witness for all Mortal Flesh, so shall I stand witness for all Immortal Spirits.\"\n\nAnd Akatosh drew from his breast a burning handful of his Heart's blood, and he gave it into Alessia's hand, saying, \"This shall also be a token to you of our joined blood and pledged faith. So long as you and your descendants shall wear the Amulet of Kings, then shall this dragonfire burn—an eternal flame—as a sign to all men and gods of our faithfulness. So long as the dragonfires shall burn, to you, and to all generations, I swear that my Heart's blood shall hold fast the Gates of Oblivion.\n\n\"So long as the Blood of the Dragon runs strong in her rulers, the glory of the Empire shall extend in unbroken years. But should the dragonfires fail, and should no heir of our joined blood wear the Amulet of Kings, then shall the Empire descend into darkness, and the Demon Lords of Misrule shall govern the land.\"\n\n— from the liturgy of the Re-Kindling of the Dragonfires"
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 5,
+        "bookIndex": 40,
+        "bookID": 1478,
+        "content": "The Riften Town Council has declared the town docks unsafe. Reports of fishermen vanishing from the docks have become common. Witnesses claim that victims have been dragged beneath the waves by unknown culprits.\n\nFrequent the docks at your peril!\n\n— The R.T.C."
+    },
+    {
+        "categoryIndex": 2,
+        "collectionIndex": 6,
+        "bookIndex": 71,
+        "bookID": 1278,
+        "content": "By Thandelieth\n\n\"I am to be married,\" she said aloud. \"Xarxes, is this what I want? Or just what I must do?\"\n\nHe rose from her book in silence, measuring her worth.\n\n\"Marriage joins two as one,\" he said. He wrote in the dirt with a dark oak staff, creating a river.\n\n\"This is one,\" Xarxes said. He wrote again. The terrain changed, splitting the river in two as it flowed over a newly-formed cliff. He stepped to its edge and beckoned to her.\n\n\"Two become one,\" he said softly in her ear, pointing over the edge at the twin falls joining together in a pool below.\n\n\"Should I marry then?\"\n\n\"One can travel quite far alone, or together. Which do you prefer?\""
+    }
+]
